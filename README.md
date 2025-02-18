@@ -3,8 +3,8 @@ In this project we have trained our model on Titanic dataset using Random Forest
 
 ## Dataset 
 You can download the datset from kaggle.This is the training datset(train.csv) from titanic competition.you can get the datset from the link
-https://www.kaggle.com/competitions/titanic/data?select=train.csv.
-In the datset the names,fare,Pclass,Cabin,Age,etc. of the passengers are given and we need to train our model to predict whether the passenger will survive or not.
+https://www.kaggle.com/competitions/titanic/data?select=train.csv or you can download it from the train.csv file in the repository.
+In the datset the features names,fare,Pclass,Cabin,Age,etc. of the passengers are given and we need to train our model to predict whether the passenger will survive or not.
 
 ## Training details
 First I did EDA on the dataset to get some insights.I dropped some features which were of no use and also created some features too based on the analysis.
